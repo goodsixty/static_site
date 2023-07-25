@@ -1,0 +1,2 @@
+# Good Sixty static site
+

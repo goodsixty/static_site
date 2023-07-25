@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Venti Extra Bold';
+  src: url(fonts/ventiextrabold.otf);
+}
+
+@font-face {
+  font-family: 'Venti Medium';
+  src: url(fonts/ventimedium.otf);
+}
+
+body {
+  margin: 0;
+  background-color: #e3deed;
+  color: #3e3d40;
+}
+
+img {
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Venti Extra Bold', sans-serif;
+  font-size: 5rem;
+}
+
+p {
+  text-align: center;
+  font-family: 'Venti Medium', sans-serif;
+  line-height: 1.2em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 2vw%;
+  font-size: 1.3em;
+}
+
+div {
+  margin-top: 50px;
+}
+
+.gsbackground {
+  background: linear-gradient(176deg, #c7c400 calc(50% - 1px), transparent 50%);
+  height: 75rem;
+  padding: 30px;
+}
